@@ -1,0 +1,61 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #0e1015;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: center;
+  padding: 50px 20px;
+  background: linear-gradient(to right, #1f1f1f, #2a2a2a);
+}
+h1 {
+  color: #ffd700;
+}
+.cta {
+  background: #ffd700;
+  color: #0e1015;
+  padding: 12px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 15px;
+}
+.cta.small {
+  padding: 8px 14px;
+}
+.card {
+  background: #1b1d23;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+#offers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#live-feed {
+  background: #14161b;
+  padding: 30px 20px;
+}
+#feed {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#feed li {
+  margin: 10px 0;
+  animation: fadeIn 1s ease-in-out;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9em;
+  background: #1a1c20;
+  color: #bbb;
+}
