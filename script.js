@@ -1,0 +1,1 @@
+console.log('Legendary FortunePort loaded');

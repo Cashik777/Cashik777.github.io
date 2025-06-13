@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: 'LegendaryFont';
+    src: url('font.woff') format('woff');
+}
+body {
+    font-family: 'LegendaryFont', sans-serif;
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+.visuals img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
