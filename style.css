@@ -1,0 +1,14 @@
+
+body {
+  background-color: #111;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+.slider img {
+  width: 80%;
+  margin: 10px auto;
+  display: block;
+  border-radius: 12px;
+}
